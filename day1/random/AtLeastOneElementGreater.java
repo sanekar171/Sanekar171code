@@ -1,4 +1,4 @@
-package random;
+package day1.random;
 
 public class AtLeastOneElementGreater {
 
